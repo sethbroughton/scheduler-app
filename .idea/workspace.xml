@@ -19,17 +19,53 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c3faf2-0a51-4429-b078-7e3d1a069ac0" name="Default Changelist" comment="" />
+    <list default="true" id="f1c3faf2-0a51-4429-b078-7e3d1a069ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference-scheduler/conference-scheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conference-scheduler/conference-scheduler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference-scheduler/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conference-scheduler/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference-scheduler/src/main/java/com/broughton/conferencescheduler/config/PersistenceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference-scheduler/src/main/java/com/broughton/conferencescheduler/config/PersistenceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference-scheduler/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conference-scheduler/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference-scheduler/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conference-scheduler/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dELnh3gUBOh7uKRoWvCgiMstx3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="ConferenceSchedulerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,6 +91,13 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1c3faf2-0a51-4429-b078-7e3d1a069ac0" name="Default Changelist" comment="" />
+      <created>1591985474120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591985474120</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +111,39 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1591985527315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591985527315" />
+    <state width="1233" height="80" key="GridCell.Tab.0.bottom" timestamp="1592335681367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="80" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1592335681367" />
+    <state width="1233" height="95" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1592334051225" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591919821725" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592174222813" />
+    <state width="1233" height="80" key="GridCell.Tab.0.center" timestamp="1592335681367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="80" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1592335681367" />
+    <state width="1233" height="95" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1592334051225" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591919821724" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592174222813" />
+    <state width="1233" height="80" key="GridCell.Tab.0.left" timestamp="1592335681367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="80" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1592335681367" />
+    <state width="1233" height="95" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1592334051224" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591919821723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592174222813" />
+    <state width="1233" height="80" key="GridCell.Tab.0.right" timestamp="1592335681367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="80" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1592335681367" />
+    <state width="1233" height="95" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1592334051225" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591919821724" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592174222813" />
   </component>
 </project>
